@@ -22,6 +22,7 @@ This is a simple shooting game made in C.
 * Limited Ammo for user but unlimited for the CPU
 * User has 10 hit points whereas CPU has 40
 * When CPU health falls below 10, it can also shoot triple bullets
+* Watch the working video : https://www.youtube.com/watch?v=07qEHcMoRD8
 
 #### Technology:
 This game was made using windows.h library on Code::Blocks IDE having GNU GCC compiler
